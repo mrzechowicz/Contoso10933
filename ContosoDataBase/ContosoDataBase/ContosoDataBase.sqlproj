@@ -98,5 +98,8 @@
     <Build Include="dbo\Stored Procedures\P_FactStrategyPlan.sql" />
     <Build Include="dbo\Stored Procedures\P_FactSalesQuota.sql" />
     <Build Include="Security\testowy.sql" />
+    <Build Include="dbo\Tables\_zad01_03.sql" />
+    <Build Include="dbo\Tables\_zad01_02.sql" />
+    <Build Include="dbo\Tables\_zad01_01.sql" />
   </ItemGroup>
 </Project>
