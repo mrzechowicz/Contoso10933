@@ -1,0 +1,3 @@
+﻿CREATE SCHEMA [widoki_TSQL]
+    AUTHORIZATION [dbo];
+
