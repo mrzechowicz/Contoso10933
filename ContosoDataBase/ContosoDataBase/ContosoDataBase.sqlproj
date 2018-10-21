@@ -105,5 +105,7 @@
     <Build Include="widoki_TSQL\Views\widok_zaj04_02.sql" />
     <Build Include="widoki_TSQL\Views\widok_zaj04_01.sql" />
     <Build Include="Security\widoki_TSQL.sql" />
+    <Build Include="widoki_TSQL\Views\widok_zaj04_05.sql" />
+    <Build Include="widoki_TSQL\Views\widok_zaj04_04.sql" />
   </ItemGroup>
 </Project>
